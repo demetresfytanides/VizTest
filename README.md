@@ -1,4 +1,4 @@
-# aeris-plotting
+# Test-plotting
 
 Plot **2 m temperature** (`t2`) over CONUS from a NetCDF file, with CONUS,
 state, and coastline boundaries overlaid.
