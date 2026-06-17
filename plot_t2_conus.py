@@ -129,7 +129,7 @@ def main():
     ax.set_title(
         f"{var_label} over CONUS\n{time_str}  "
         f"(member {args.member})",
-        fontsize=12,
+        fontsize=18,
     )
 
     # NOTE: do not use bbox_inches="tight" here -- combined with cartopy
