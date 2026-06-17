@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large data files (NetCDF) -- keep these out of the repo
+*.nc
+
+# Scratch / debug output
+debug*.png

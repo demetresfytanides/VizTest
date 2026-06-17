@@ -1,0 +1,11 @@
+name: aeris-plot
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - xarray
+  - netcdf4
+  - matplotlib
+  - cartopy
+  - pillow   # only needed if you want to inspect/resize the output PNGs
